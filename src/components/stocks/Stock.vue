@@ -1,5 +1,5 @@
 <template>
-  <div class="container"></div>
+  <h1>Stcoks- stock component</h1>
 </template>
 
 <script>

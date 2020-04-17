@@ -1,5 +1,5 @@
 <template>
-  <div class="container"></div>
+  <h1>Header component</h1>
 </template>
 
 <script>
